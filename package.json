@@ -10,8 +10,14 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "address": "^1.0.3",
+    "child-process": "^1.0.2",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
     "immutable": "^3.8.1",
+    "internal-ip": "^4.2.0",
     "vue": "^2.3.3",
+    "vue-cli": "^2.9.6",
     "vuex": "^2.3.1"
   },
   "devDependencies": {
